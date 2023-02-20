@@ -1,0 +1,11 @@
+Skin lesions,Coughing,Sneezing,Diarrhea,Diarrhea with blood,Itching,Dermatitis,Vomiting,Loss of apetite,Higher Body temperature,Reduced milk production,Blood in dung,redness or blue blotching of the skin on ears nose and limbs,nasal and eye discharges,pneumonia,arthritis,Reduced Growth Rate,Scratching,Disease
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Swine dysentery
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Proliferative enteropathy PEileitis
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,Sarcoptic mange
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Gastric ulceration
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Erysipelas
+0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Internal Parasites (worms)
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Exudative epidirmitis
+0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,"Farrowing sickness (mastitis, metritis, agalactia - MMA)"
+0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,Gastric ulcers
+0,1,0,1,0,0,0,1,0,1,0,0,1,1,1,1,0,0,African Swine Fever
